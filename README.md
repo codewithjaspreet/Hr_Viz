@@ -8,6 +8,9 @@ This Tableau dashboard provides a comprehensive analysis of HR data, enabling HR
 
 [Click here to view the HR Data Analytics Dashboard](https://public.tableau.com/views/hr_data_analytics/HRANALYTICS?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
+![HR ANALYTICS](https://github.com/codewithjaspreet/Hr_Viz/assets/85099922/cd7e08e3-a9d8-4ce7-9783-ff0f3aa4ed59)
+
+
 ## Key Metrics / KPIs
 
 The dashboard showcases the following key HR metrics and Key Performance Indicators (KPIs):
